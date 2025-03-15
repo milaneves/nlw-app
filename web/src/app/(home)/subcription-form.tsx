@@ -24,6 +24,7 @@
    })
  
    function onSubscribe(data: SubscriptionSchema) {
+     console.log(data)
    }
  
    return (
